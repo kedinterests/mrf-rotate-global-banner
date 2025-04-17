@@ -1,0 +1,4 @@
+header_items:
+  type: list
+  default: "This space is intentionally left empty|This space will be different soon"
+  description: "Stuff to put in the global announce place"
